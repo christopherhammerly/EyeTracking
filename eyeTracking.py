@@ -2,6 +2,8 @@
 Author: Amanda Doucette
 April 25, 2016
 Edited: September 21, 2016
+
+Edited in May 2017 by Christopher Hammerly to include dynamic left-waed shifting procedure
 """
 
 try: input = raw_input
